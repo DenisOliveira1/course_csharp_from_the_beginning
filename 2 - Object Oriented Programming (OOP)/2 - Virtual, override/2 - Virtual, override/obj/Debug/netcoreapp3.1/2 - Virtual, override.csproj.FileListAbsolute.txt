@@ -1,0 +1,13 @@
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\bin\Debug\netcoreapp3.1\2 - Virtual, override.exe
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\bin\Debug\netcoreapp3.1\2 - Virtual, override.deps.json
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\bin\Debug\netcoreapp3.1\2 - Virtual, override.runtimeconfig.json
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\bin\Debug\netcoreapp3.1\2 - Virtual, override.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\bin\Debug\netcoreapp3.1\2 - Virtual, override.dll
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\bin\Debug\netcoreapp3.1\2 - Virtual, override.pdb
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\obj\Debug\netcoreapp3.1\2 - Virtual, override.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\obj\Debug\netcoreapp3.1\2 - Virtual, override.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\obj\Debug\netcoreapp3.1\2 - Virtual, override.AssemblyInfo.cs
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\obj\Debug\netcoreapp3.1\2 - Virtual, override.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\obj\Debug\netcoreapp3.1\2 - Virtual, override.dll
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\obj\Debug\netcoreapp3.1\2 - Virtual, override.pdb
+C:\Users\Denis\source\repos\2 - Virtual, override\2 - Virtual, override\obj\Debug\netcoreapp3.1\2 - Virtual, override.genruntimeconfig.cache

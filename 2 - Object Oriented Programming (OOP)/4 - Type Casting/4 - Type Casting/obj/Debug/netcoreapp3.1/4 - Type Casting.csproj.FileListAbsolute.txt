@@ -1,0 +1,13 @@
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\bin\Debug\netcoreapp3.1\4 - Type Casting.exe
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\bin\Debug\netcoreapp3.1\4 - Type Casting.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\bin\Debug\netcoreapp3.1\4 - Type Casting.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\bin\Debug\netcoreapp3.1\4 - Type Casting.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\bin\Debug\netcoreapp3.1\4 - Type Casting.dll
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\bin\Debug\netcoreapp3.1\4 - Type Casting.pdb
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\obj\Debug\netcoreapp3.1\4 - Type Casting.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\obj\Debug\netcoreapp3.1\4 - Type Casting.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\obj\Debug\netcoreapp3.1\4 - Type Casting.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\obj\Debug\netcoreapp3.1\4 - Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\obj\Debug\netcoreapp3.1\4 - Type Casting.dll
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\obj\Debug\netcoreapp3.1\4 - Type Casting.pdb
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\4 - Type Casting\4 - Type Casting\obj\Debug\netcoreapp3.1\4 - Type Casting.genruntimeconfig.cache

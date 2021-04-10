@@ -1,0 +1,13 @@
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\bin\Debug\netcoreapp3.1\2 - Collections and their usage.exe
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\bin\Debug\netcoreapp3.1\2 - Collections and their usage.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\bin\Debug\netcoreapp3.1\2 - Collections and their usage.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\bin\Debug\netcoreapp3.1\2 - Collections and their usage.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\bin\Debug\netcoreapp3.1\2 - Collections and their usage.dll
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\bin\Debug\netcoreapp3.1\2 - Collections and their usage.pdb
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\obj\Debug\netcoreapp3.1\2 - Collections and their usage.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\obj\Debug\netcoreapp3.1\2 - Collections and their usage.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\obj\Debug\netcoreapp3.1\2 - Collections and their usage.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\obj\Debug\netcoreapp3.1\2 - Collections and their usage.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\obj\Debug\netcoreapp3.1\2 - Collections and their usage.dll
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\obj\Debug\netcoreapp3.1\2 - Collections and their usage.pdb
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\2 - Collections and their usage\2 - Collections and their usage\obj\Debug\netcoreapp3.1\2 - Collections and their usage.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\bin\Debug\netcoreapp3.1\3 - Dictionary.exe
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\bin\Debug\netcoreapp3.1\3 - Dictionary.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\bin\Debug\netcoreapp3.1\3 - Dictionary.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\bin\Debug\netcoreapp3.1\3 - Dictionary.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\bin\Debug\netcoreapp3.1\3 - Dictionary.dll
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\bin\Debug\netcoreapp3.1\3 - Dictionary.pdb
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\obj\Debug\netcoreapp3.1\3 - Dictionary.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\obj\Debug\netcoreapp3.1\3 - Dictionary.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\obj\Debug\netcoreapp3.1\3 - Dictionary.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\obj\Debug\netcoreapp3.1\3 - Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\obj\Debug\netcoreapp3.1\3 - Dictionary.dll
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\obj\Debug\netcoreapp3.1\3 - Dictionary.pdb
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\3 - Dictionary\3 - Dictionary\obj\Debug\netcoreapp3.1\3 - Dictionary.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\bin\Debug\netcoreapp3.1\1 - How to create a generic class.exe
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\bin\Debug\netcoreapp3.1\1 - How to create a generic class.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\bin\Debug\netcoreapp3.1\1 - How to create a generic class.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\bin\Debug\netcoreapp3.1\1 - How to create a generic class.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\bin\Debug\netcoreapp3.1\1 - How to create a generic class.dll
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\bin\Debug\netcoreapp3.1\1 - How to create a generic class.pdb
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\obj\Debug\netcoreapp3.1\1 - How to create a generic class.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\obj\Debug\netcoreapp3.1\1 - How to create a generic class.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\obj\Debug\netcoreapp3.1\1 - How to create a generic class.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\obj\Debug\netcoreapp3.1\1 - How to create a generic class.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\obj\Debug\netcoreapp3.1\1 - How to create a generic class.dll
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\obj\Debug\netcoreapp3.1\1 - How to create a generic class.pdb
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\1 - How to create a generic class\1 - How to create a generic class\obj\Debug\netcoreapp3.1\1 - How to create a generic class.genruntimeconfig.cache

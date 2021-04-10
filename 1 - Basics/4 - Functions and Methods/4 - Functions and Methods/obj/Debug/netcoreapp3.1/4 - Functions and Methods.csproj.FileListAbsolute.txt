@@ -1,0 +1,13 @@
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\bin\Debug\netcoreapp3.1\4 - Functions and Methods.exe
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\bin\Debug\netcoreapp3.1\4 - Functions and Methods.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\bin\Debug\netcoreapp3.1\4 - Functions and Methods.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\bin\Debug\netcoreapp3.1\4 - Functions and Methods.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\bin\Debug\netcoreapp3.1\4 - Functions and Methods.dll
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\bin\Debug\netcoreapp3.1\4 - Functions and Methods.pdb
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\obj\Debug\netcoreapp3.1\4 - Functions and Methods.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\obj\Debug\netcoreapp3.1\4 - Functions and Methods.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\obj\Debug\netcoreapp3.1\4 - Functions and Methods.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\obj\Debug\netcoreapp3.1\4 - Functions and Methods.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\obj\Debug\netcoreapp3.1\4 - Functions and Methods.dll
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\obj\Debug\netcoreapp3.1\4 - Functions and Methods.pdb
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\4 - Functions and Methods\4 - Functions and Methods\obj\Debug\netcoreapp3.1\4 - Functions and Methods.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\bin\Debug\netcoreapp3.1\Variables and their types.exe
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\bin\Debug\netcoreapp3.1\Variables and their types.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\bin\Debug\netcoreapp3.1\Variables and their types.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\bin\Debug\netcoreapp3.1\Variables and their types.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\bin\Debug\netcoreapp3.1\Variables and their types.dll
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\bin\Debug\netcoreapp3.1\Variables and their types.pdb
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\obj\Debug\netcoreapp3.1\Variables and their types.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\obj\Debug\netcoreapp3.1\Variables and their types.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\obj\Debug\netcoreapp3.1\Variables and their types.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\obj\Debug\netcoreapp3.1\Variables and their types.dll
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\obj\Debug\netcoreapp3.1\Variables and their types.pdb
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\2 - Variables and their types\2 - Variables and their types\obj\Debug\netcoreapp3.1\Variables and their types.genruntimeconfig.cache

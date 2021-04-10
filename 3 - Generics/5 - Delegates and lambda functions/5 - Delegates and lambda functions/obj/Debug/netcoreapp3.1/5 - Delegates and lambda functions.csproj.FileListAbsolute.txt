@@ -1,0 +1,13 @@
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\bin\Debug\netcoreapp3.1\5 - Delegates and lambda functions.exe
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\bin\Debug\netcoreapp3.1\5 - Delegates and lambda functions.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\bin\Debug\netcoreapp3.1\5 - Delegates and lambda functions.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\bin\Debug\netcoreapp3.1\5 - Delegates and lambda functions.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\bin\Debug\netcoreapp3.1\5 - Delegates and lambda functions.dll
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\bin\Debug\netcoreapp3.1\5 - Delegates and lambda functions.pdb
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\obj\Debug\netcoreapp3.1\5 - Delegates and lambda functions.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\obj\Debug\netcoreapp3.1\5 - Delegates and lambda functions.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\obj\Debug\netcoreapp3.1\5 - Delegates and lambda functions.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\obj\Debug\netcoreapp3.1\5 - Delegates and lambda functions.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\obj\Debug\netcoreapp3.1\5 - Delegates and lambda functions.dll
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\obj\Debug\netcoreapp3.1\5 - Delegates and lambda functions.pdb
+C:\Users\Denis\Downloads\C# from the beginning\3 - Generics\5 - Delegates and lambda functions\5 - Delegates and lambda functions\obj\Debug\netcoreapp3.1\5 - Delegates and lambda functions.genruntimeconfig.cache

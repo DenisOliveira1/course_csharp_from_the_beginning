@@ -1,0 +1,13 @@
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\bin\Debug\netcoreapp3.1\6 - This and Base.exe
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\bin\Debug\netcoreapp3.1\6 - This and Base.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\bin\Debug\netcoreapp3.1\6 - This and Base.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\bin\Debug\netcoreapp3.1\6 - This and Base.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\bin\Debug\netcoreapp3.1\6 - This and Base.dll
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\bin\Debug\netcoreapp3.1\6 - This and Base.pdb
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\obj\Debug\netcoreapp3.1\6 - This and Base.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\obj\Debug\netcoreapp3.1\6 - This and Base.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\obj\Debug\netcoreapp3.1\6 - This and Base.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\obj\Debug\netcoreapp3.1\6 - This and Base.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\obj\Debug\netcoreapp3.1\6 - This and Base.dll
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\obj\Debug\netcoreapp3.1\6 - This and Base.pdb
+C:\Users\Denis\Downloads\C# from the beginning\2 - Object Oriented Programming (OOP)\6 - This and Base\6 - This and Base\obj\Debug\netcoreapp3.1\6 - This and Base.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "5 - Abstract classes and interfaces/1.0.0": {
+        "runtime": {
+          "5 - Abstract classes and interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5 - Abstract classes and interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\bin\Debug\netcoreapp3.1\5 - Conditional Statements.exe
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\bin\Debug\netcoreapp3.1\5 - Conditional Statements.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\bin\Debug\netcoreapp3.1\5 - Conditional Statements.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\bin\Debug\netcoreapp3.1\5 - Conditional Statements.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\bin\Debug\netcoreapp3.1\5 - Conditional Statements.dll
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\bin\Debug\netcoreapp3.1\5 - Conditional Statements.pdb
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\obj\Debug\netcoreapp3.1\5 - Conditional Statements.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\obj\Debug\netcoreapp3.1\5 - Conditional Statements.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\obj\Debug\netcoreapp3.1\5 - Conditional Statements.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\obj\Debug\netcoreapp3.1\5 - Conditional Statements.dll
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\obj\Debug\netcoreapp3.1\5 - Conditional Statements.pdb
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\5 - Conditional Statements\5 - Conditional Statements\obj\Debug\netcoreapp3.1\5 - Conditional Statements.genruntimeconfig.cache

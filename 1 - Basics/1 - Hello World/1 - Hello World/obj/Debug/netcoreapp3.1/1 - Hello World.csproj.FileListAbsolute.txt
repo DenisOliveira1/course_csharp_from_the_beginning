@@ -1,0 +1,13 @@
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.exe
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.dll
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.pdb
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.dll
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.pdb
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\1 - Hello World\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.genruntimeconfig.cache

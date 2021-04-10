@@ -1,0 +1,13 @@
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\bin\Debug\netcoreapp3.1\6 - Loops.exe
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\bin\Debug\netcoreapp3.1\6 - Loops.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\bin\Debug\netcoreapp3.1\6 - Loops.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\bin\Debug\netcoreapp3.1\6 - Loops.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\bin\Debug\netcoreapp3.1\6 - Loops.dll
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\bin\Debug\netcoreapp3.1\6 - Loops.pdb
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\obj\Debug\netcoreapp3.1\6 - Loops.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\obj\Debug\netcoreapp3.1\6 - Loops.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\obj\Debug\netcoreapp3.1\6 - Loops.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\obj\Debug\netcoreapp3.1\6 - Loops.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\obj\Debug\netcoreapp3.1\6 - Loops.dll
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\obj\Debug\netcoreapp3.1\6 - Loops.pdb
+C:\Users\Denis\Downloads\C# from the beginning\1 - Basics\6 - Loops\6 - Loops\obj\Debug\netcoreapp3.1\6 - Loops.genruntimeconfig.cache
