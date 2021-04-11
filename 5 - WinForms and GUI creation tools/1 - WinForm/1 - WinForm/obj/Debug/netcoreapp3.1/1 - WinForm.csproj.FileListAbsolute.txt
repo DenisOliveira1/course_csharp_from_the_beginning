@@ -1,0 +1,15 @@
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\bin\Debug\netcoreapp3.1\1 - WinForm.exe
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\bin\Debug\netcoreapp3.1\1 - WinForm.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\bin\Debug\netcoreapp3.1\1 - WinForm.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\bin\Debug\netcoreapp3.1\1 - WinForm.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\bin\Debug\netcoreapp3.1\1 - WinForm.dll
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\bin\Debug\netcoreapp3.1\1 - WinForm.pdb
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\obj\Debug\netcoreapp3.1\1 - WinForm.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\obj\Debug\netcoreapp3.1\_1___WinForm.Form1.resources
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\obj\Debug\netcoreapp3.1\1 - WinForm.csproj.GenerateResource.cache
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\obj\Debug\netcoreapp3.1\1 - WinForm.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\obj\Debug\netcoreapp3.1\1 - WinForm.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\obj\Debug\netcoreapp3.1\1 - WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\obj\Debug\netcoreapp3.1\1 - WinForm.dll
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\obj\Debug\netcoreapp3.1\1 - WinForm.pdb
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\1 - WinForm\1 - WinForm\obj\Debug\netcoreapp3.1\1 - WinForm.genruntimeconfig.cache

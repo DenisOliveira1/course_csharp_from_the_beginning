@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "IhjInNwas5DwJ5qvkJJKWNZlGVr3UvwKhkq/ZikxeoI6KB7VRODF+qHL9xcZTqoMlWMmFOEFFmxrzFEvkz6jlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Downloads\\C# from the beginning\\5 - WinForms and GUI creation tools\\2 - Events in WinForms\\2 - Events in WinForms\\2 - Events in WinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\naudio\\2.0.0\\naudio.2.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\naudio.asio\\2.0.0\\naudio.asio.2.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\naudio.core\\2.0.0\\naudio.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\naudio.midi\\2.0.0\\naudio.midi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\naudio.wasapi\\2.0.0\\naudio.wasapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\naudio.winforms\\2.0.0\\naudio.winforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\naudio.winmm\\2.0.0\\naudio.winmm.2.0.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

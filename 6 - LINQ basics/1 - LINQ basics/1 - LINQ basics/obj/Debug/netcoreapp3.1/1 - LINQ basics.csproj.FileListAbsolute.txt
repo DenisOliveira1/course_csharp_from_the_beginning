@@ -1,0 +1,13 @@
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\bin\Debug\netcoreapp3.1\1 - LINQ basics.exe
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\bin\Debug\netcoreapp3.1\1 - LINQ basics.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\bin\Debug\netcoreapp3.1\1 - LINQ basics.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\bin\Debug\netcoreapp3.1\1 - LINQ basics.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\bin\Debug\netcoreapp3.1\1 - LINQ basics.dll
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\bin\Debug\netcoreapp3.1\1 - LINQ basics.pdb
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\obj\Debug\netcoreapp3.1\1 - LINQ basics.csprojAssemblyReference.cache
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\obj\Debug\netcoreapp3.1\1 - LINQ basics.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\obj\Debug\netcoreapp3.1\1 - LINQ basics.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\obj\Debug\netcoreapp3.1\1 - LINQ basics.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\obj\Debug\netcoreapp3.1\1 - LINQ basics.dll
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\obj\Debug\netcoreapp3.1\1 - LINQ basics.pdb
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\1 - LINQ basics\1 - LINQ basics\obj\Debug\netcoreapp3.1\1 - LINQ basics.genruntimeconfig.cache

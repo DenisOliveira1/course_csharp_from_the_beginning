@@ -1,0 +1,15 @@
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\bin\Debug\netcoreapp3.1\2 - Events in WinForms.exe
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\bin\Debug\netcoreapp3.1\2 - Events in WinForms.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\bin\Debug\netcoreapp3.1\2 - Events in WinForms.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\bin\Debug\netcoreapp3.1\2 - Events in WinForms.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\bin\Debug\netcoreapp3.1\2 - Events in WinForms.dll
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\bin\Debug\netcoreapp3.1\2 - Events in WinForms.pdb
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\obj\Debug\netcoreapp3.1\_2___Events_in_WinForms.PlayerForm.resources
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\obj\Debug\netcoreapp3.1\2 - Events in WinForms.csproj.GenerateResource.cache
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\obj\Debug\netcoreapp3.1\2 - Events in WinForms.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\obj\Debug\netcoreapp3.1\2 - Events in WinForms.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\obj\Debug\netcoreapp3.1\2 - Events in WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\obj\Debug\netcoreapp3.1\2 - Events in WinForms.dll
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\obj\Debug\netcoreapp3.1\2 - Events in WinForms.pdb
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\obj\Debug\netcoreapp3.1\2 - Events in WinForms.genruntimeconfig.cache
+C:\Users\Denis\Downloads\C# from the beginning\5 - WinForms and GUI creation tools\2 - Events in WinForms\2 - Events in WinForms\obj\Debug\netcoreapp3.1\2 - Events in WinForms.csprojAssemblyReference.cache

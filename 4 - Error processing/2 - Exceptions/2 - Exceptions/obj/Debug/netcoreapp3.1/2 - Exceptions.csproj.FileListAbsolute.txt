@@ -1,0 +1,13 @@
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\bin\Debug\netcoreapp3.1\2 - Exceptions.exe
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\bin\Debug\netcoreapp3.1\2 - Exceptions.deps.json
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\bin\Debug\netcoreapp3.1\2 - Exceptions.runtimeconfig.json
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\bin\Debug\netcoreapp3.1\2 - Exceptions.runtimeconfig.dev.json
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\bin\Debug\netcoreapp3.1\2 - Exceptions.dll
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\bin\Debug\netcoreapp3.1\2 - Exceptions.pdb
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\obj\Debug\netcoreapp3.1\2 - Exceptions.AssemblyInfoInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\obj\Debug\netcoreapp3.1\2 - Exceptions.AssemblyInfo.cs
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\obj\Debug\netcoreapp3.1\2 - Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\obj\Debug\netcoreapp3.1\2 - Exceptions.dll
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\obj\Debug\netcoreapp3.1\2 - Exceptions.pdb
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\obj\Debug\netcoreapp3.1\2 - Exceptions.genruntimeconfig.cache
+C:\Users\Denis\Downloads\C# from the beginning\4 - Error processing\2 - Exceptions\2 - Exceptions\obj\Debug\netcoreapp3.1\2 - Exceptions.csprojAssemblyReference.cache
